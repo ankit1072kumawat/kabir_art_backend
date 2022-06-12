@@ -1,0 +1,25 @@
+{
+  "name": "practicenode",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^4.0.1",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^3.0.0",
+    "mongoose": "^5.7.0",
+    "morgan": "^1.9.1",
+    "multer": "^1.4.2",
+    "nodeman": "^1.1.2",
+    "nodemon": "^2.0.3"
+  }
+}
