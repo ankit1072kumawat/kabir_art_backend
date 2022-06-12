@@ -5,5 +5,4 @@ const config = {
     // dbpath: 'mongodb+srv://ankit_1:jtb2qIg88abwbpPF@cluster0.hh6io.mongodb.net/test',
     secret: 'abcdefg'
 };
-// module.exports = config;
 export default config 
